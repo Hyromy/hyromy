@@ -1,4 +1,4 @@
-![banner](https://media.discordapp.net/attachments/822180711175553044/1166931213617987656/banner.png?ex=654c4861&is=6539d361&hm=980ccc6a9a519193fb96a211938965fca6337d1d72a094ea4a3fa9c3871fb2d1&=&width=1920&height=593)
+![banner](https://media1.tenor.com/m/3qD8xMQMXTYAAAAC/focalors-eyes.gif)
 
 ---
 ---
