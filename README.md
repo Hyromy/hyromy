@@ -1,5 +1,4 @@
-![banner](https://media1.tenor.com/m/3qD8xMQMXTYAAAAC/focalors-eyes.gif)
-
+<img src="https://media1.tenor.com/m/3qD8xMQMXTYAAAAC/focalors-eyes.gif" alt="banner" style="width:100%;">
 ---
 ---
 
