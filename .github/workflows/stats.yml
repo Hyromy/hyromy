@@ -1,0 +1,41 @@
+name: HyromyStats
+
+on:
+  push:
+    branches: [ main ]
+
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+
+      - name: configurando python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: actualizar pip
+        run: python -m pip install --upgrade pip
+
+      - name: instalar dependencias
+        run: pip install os
+             pip install PyGithub
+
+      - name: run stats.py
+        env:
+          SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
+        run: python ./stats.py
+
+      - name: commit y push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: update stats
+          commit_user_name: Hyromy [GitHub Actions]
+          commit_user_email: formulajoel9@gmail.com
+          commit_author: Hyromy
