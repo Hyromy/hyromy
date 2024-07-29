@@ -24,8 +24,7 @@ jobs:
         run: python -m pip install --upgrade pip
 
       - name: instalar dependencias
-        run: pip install os
-             pip install PyGithub
+        run: pip install os PyGithub
 
       - name: run stats.py
         env:
