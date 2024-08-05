@@ -11,4 +11,22 @@ Soy Estudiante de Desarrollo de Software, con gran interés, curiosidad y dedica
 Estoy estudiando desarrollo por que me entusiasma el poder ofrecer herramientas útiles durante mucho tiempo.
 
 <!-- stats -->
+## Lenguajes de programación
+
+- C# **46.61%**
+- PHP **24.84%**
+- HTML **9.50%**
+- Java **8.38%**
+- Python **5.45%**
+- CSS **3.78%**
+- JavaScript **1.45%**
+
+
+## Actividad en github
+- Commits totales: **202**
+- Inserciones totales: **7821442**
+- Eliminaciones totales: **1665488**
+- Lineas efectivas: **6155954**
+- Efectividad: **78.71%**
+- Lineas por commit: **30475**
 <!-- /stats -->
