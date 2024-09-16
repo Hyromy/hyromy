@@ -23,10 +23,10 @@ Estoy estudiando desarrollo por que me entusiasma el poder ofrecer herramientas 
 
 
 ## Actividad en github
-- Commits totales: **228**
-- Inserciones totales: **7847244**
-- Eliminaciones totales: **1675326**
+- Commits totales: **233**
+- Inserciones totales: **7847312**
+- Eliminaciones totales: **1675394**
 - Lineas efectivas: **6171918**
 - Efectividad: **78.65%**
-- Lineas por commit: **27069**
+- Lineas por commit: **26488**
 <!-- /stats -->
