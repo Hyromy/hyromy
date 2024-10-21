@@ -13,20 +13,20 @@ Estoy estudiando desarrollo por que me entusiasma el poder ofrecer herramientas 
 <!-- stats -->
 ## Lenguajes de programación
 
-- C# **37.24%**
-- PHP **19.85%**
-- Java **17.90%**
-- Python **13.24%**
-- HTML **7.59%**
-- CSS **3.02%**
-- JavaScript **1.16%**
+- C# **34.66%**
+- Java **23.59%**
+- PHP **18.47%**
+- Python **12.32%**
+- HTML **7.07%**
+- CSS **2.81%**
+- JavaScript **1.08%**
 
 
 ## Actividad en github
-- Commits totales: **273**
-- Inserciones totales: **12148159**
-- Eliminaciones totales: **2354643**
-- Lineas efectivas: **9793516**
-- Efectividad: **80.62%**
-- Lineas por commit: **35873**
+- Commits totales: **288**
+- Inserciones totales: **12219774**
+- Eliminaciones totales: **2364961**
+- Lineas efectivas: **9854813**
+- Efectividad: **80.65%**
+- Lineas por commit: **34218**
 <!-- /stats -->
