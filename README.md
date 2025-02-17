@@ -13,18 +13,18 @@ Estoy estudiando desarrollo por que me entusiasma el poder ofrecer herramientas 
 <!-- stats -->
 ## Lenguajes de programación
 
-- JavaScript **56.00%**
-- SCSS **17.58%**
-- CSS **10.97%**
-- PHP **2.91%**
-- Java **2.75%**
-- TypeScript **2.50%**
-- HTML **2.46%**
-- C# **1.54%**
+- JavaScript **56.06%**
+- SCSS **17.52%**
+- CSS **10.93%**
+- PHP **2.90%**
+- Java **2.74%**
+- HTML **2.55%**
+- TypeScript **2.49%**
+- C# **1.53%**
 - Blade **1.34%**
-- ShaderLab **0.77%**
-- Python **0.57%**
-- Mathematica **0.25%**
+- ShaderLab **0.76%**
+- Python **0.56%**
+- Mathematica **0.24%**
 - HLSL **0.16%**
 - Less **0.16%**
 - Hack **0.04%**
@@ -32,10 +32,10 @@ Estoy estudiando desarrollo por que me entusiasma el poder ofrecer herramientas 
 
 
 ## Actividad en github
-- Commits totales: **420**
-- Inserciones totales: **13213918**
-- Eliminaciones totales: **2549462**
-- Lineas efectivas: **10664456**
-- Efectividad: **80.71%**
-- Lineas por commit: **25391**
+- Commits totales: **440**
+- Inserciones totales: **13320849**
+- Eliminaciones totales: **2606004**
+- Lineas efectivas: **10714845**
+- Efectividad: **80.44%**
+- Lineas por commit: **24351**
 <!-- /stats -->
