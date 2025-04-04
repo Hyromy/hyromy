@@ -1,0 +1,44 @@
+name: Hyromy
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    permissions: 
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+    
+      - name: Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: pip
+        run: py -m pip install --upgrade pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run stats
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+        run: py ./stats.py
+
+      - name: Run writer
+        run: py ./writer.py
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: update stats
+          commit_user_name: Hyromy [GitHub Action]
+          commit_user_email: formulajoel9@gmail.com
+          commit_author: Hyromy [GitHub Action] <formulajoel9@gmail.com>
+  
