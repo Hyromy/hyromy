@@ -1,30 +1,30 @@
 <!-- #stats -->
 ### Estadísticas Generales
 - **Total de repositorios:** 28
-- **Total de commits:** 396
-- **Total de líneas añadidas:** 101640
-- **Total de líneas eliminadas:** 31911
-- **Total de líneas netas:** 69729
-- **Líneas por commit:** 176
-- **Líneas por repositorio:** 2490
-- **Eficiencia:** 68.60%
+- **Total de commits:** 398
+- **Total de líneas añadidas:** 101952
+- **Total de líneas eliminadas:** 31987
+- **Total de líneas netas:** 69965
+- **Líneas por commit:** 175
+- **Líneas por repositorio:** 2498
+- **Eficiencia:** 68.63%
 
 ### Lenguajes Utilizados
 - **Total de lenguajes:** 8
 #### Lenguajes ordenados por uso:
-  - C#: 64.92%
-  - Java: 14.33%
-  - Python: 7.46%
-  - PHP: 7.08%
-  - JavaScript: 3.20%
-  - HTML: 1.93%
-  - CSS: 1.03%
+  - C#: 64.70%
+  - Java: 14.29%
+  - Python: 7.44%
+  - PHP: 7.05%
+  - JavaScript: 3.29%
+  - HTML: 2.07%
+  - CSS: 1.11%
   - C++: 0.05%
 <!-- #/stats -->
 
 <!-- #process -->
 <!--
 	cores: 4
-	runtime: 79.54029989242554s
+	runtime: 124.86737751960754s
 -->
 <!-- #/process -->
